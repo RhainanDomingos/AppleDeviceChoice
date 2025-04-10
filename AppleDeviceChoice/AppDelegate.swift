@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  AppleDeviceChoice
+//  Swift_NotificationCenterEProtocolo
 //
-//  Created by Rhainan Domingos on 10/04/25.
+//  Created by Rhainan Domingos on 21/02/25.
 //
 
 import UIKit
