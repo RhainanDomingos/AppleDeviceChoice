@@ -30,6 +30,25 @@ This project allowed me to understand how to use navigation controllers, how to 
 
 ---
 
+## 🧪 How to Run
+
+To run this project on your local machine:
+
+**Clone the repository**
+```bash
+git clone https://github.com/RhainanDomingos/AppleDeviceChoice.git
+cd AppleDeviceChoice
+```
+Open the .xcodeproj file
+```bash
+open AppleDeviceChoice.xcodeproj
+```
+Build and run the app
+Select a simulator (e.g., iPhone 14)
+Press Cmd + R in Xcode
+
+---
+
 ## 🎥 Preview
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b9b68a70-8027-4653-9f58-a2d7cb8c0781" width="250" />
